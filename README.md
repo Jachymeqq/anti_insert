@@ -1,3 +1,1 @@
-Easy script that will send you screenshot, player name and player ID when someone press INSERT.
-
-Why insert? Because so many people have cheats on this key.
+The "anti_insert" script detects when the INSERT key is pressed, indicating potential cheating. It sends a notification with the player's ID and name to a Discord channel, along with a screenshot for reference. This helps admins quickly address suspicious behavior and maintain fairness in gaming environments.
